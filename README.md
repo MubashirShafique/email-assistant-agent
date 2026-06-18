@@ -76,7 +76,7 @@ Provides `get_smtp_connection()` and `get_imap_connection()` — authenticated c
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/MubashirShafique/email-assistant-agent.git
 cd email-assistant-agent
 ```
 
